@@ -1,2 +1,2 @@
 # bowl
-# this repository is used to record the way I learn AI
+# this repository is used to recording the way I learn AI
